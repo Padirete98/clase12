@@ -1,5 +1,5 @@
 import axios from "axios";
-const URL = "https://futuramaapi.com/api/v2/characters/1";
+const URL = "https://futuramaapi.com/api/characters/1";
 
 /* fetch(URL)
     .then((response) => {
